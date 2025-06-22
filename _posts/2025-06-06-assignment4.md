@@ -167,5 +167,5 @@ This project allowed me to:
 
 ---
 
-> Report created using Markdown and ChatGPT. Application developed in Python and tested locally on Windows.
+> Report created using Markdown. Application developed in Python and tested locally on Windows.
 
